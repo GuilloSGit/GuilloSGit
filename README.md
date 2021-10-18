@@ -2,11 +2,11 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Argentina :argentina:
+I'm a self-taught passionate Full Stack JavaScript Developer from Argentina :argentina:
 
 **About me**
 
-- 💼 Front End Developer
+- 💼 Full Stack JavaScript Developer
 
 - ❤️ I love writing JavaScript, and building fun apps on React-Redux
 
@@ -18,7 +18,10 @@ I'm a self-taught passionate FrontEnd developer from Argentina :argentina:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilloSGit)](https://github.com/anuraghazra/github-readme-stats)
