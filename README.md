@@ -11,8 +11,8 @@ I'm a self-taught passionate Full Stack JavaScript Developer from Argentina :arg
 - ❤️ I love writing JavaScript, and building fun apps on React-Redux
 
 - 💬 Ask me about anything [here](https://wa.me/543876295801)
+
 - My profile on [LINKEDIN](https://www.linkedin.com/in/guillermo-david-andrada)
-- 
 
 
 
