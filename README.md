@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<br />
-
-I'm a self-taught passionate Full Stack JavaScript Developer from Argentina :argentina:
+I'm Guillermo, a self-taught passionate Full Stack JavaScript Developer from Argentina :argentina:
 
 **About me**
 
@@ -12,12 +10,15 @@ I'm a self-taught passionate Full Stack JavaScript Developer from Argentina :arg
 
 - 💬 Ask me about anything [here](https://wa.me/543876295801)
 
-- My profile on [LINKEDIN](https://www.linkedin.com/in/guillermo-david-andrada)
+- My profile on [LinkedIn.com](https://www.linkedin.com/in/guillermo-david-andrada)
 
+My stats on GitHub <br/>
+![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=GuilloSGit) 
 
-
-**Languages and Tools:**
 <table>
+  <th colspan="4" align="left">
+      Languages and Tools:
+   </th>
   <tr>
     <td>JavaScript</td>
     <td>React</td>
@@ -62,8 +63,6 @@ I'm a self-taught passionate Full Stack JavaScript Developer from Argentina :arg
   </tr>
 </table>
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=GuilloSGit)]
-
 ───────────────────────────────<br>
 ───────────────██████████──────<br>
 ──────────────████████████─────<br>
@@ -91,5 +90,4 @@ I'm a self-taught passionate Full Stack JavaScript Developer from Argentina :arg
 ────────────────────▀▄▄▄▄▀<br>
 <br>
 
-🅛🅔🅣❜🅢 🅒🅡🅔🅐🅣🅔 🅢🅞🅜🅔🅣🅗🅘🅝🅖 🅝🅔🅦
-
+🅛🅔🅣❜🅢 🅒🅡🅔🅐🅣🅔 🅢🅞🅜🅔🅣🅗🅘🅝🅖
