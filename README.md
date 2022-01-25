@@ -31,6 +31,9 @@ I'm a self-taught passionate Full Stack JavaScript Developer from Argentina :arg
     <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></td>
   </tr>
   <tr>
+    <td colspan="4"></td>
+  </tr>
+  <tr>
     <td>Express.js</td>
     <td>SQL</td>
     <td>Angular</td>
@@ -42,7 +45,10 @@ I'm a self-taught passionate Full Stack JavaScript Developer from Argentina :arg
     <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></td>
     <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></td>
   </tr>
-    <tr>
+  <tr>
+    <td colspan="4"></td>
+  </tr>
+  <tr>
     <td>PostgreSQL</td>
     <td>HTML5</td>
     <td>CSS3</td>
