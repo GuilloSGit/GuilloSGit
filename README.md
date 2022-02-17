@@ -61,6 +61,17 @@ My stats on GitHub <br/>
     <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></td>
     <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></td>
   </tr>
+  <tr>
+    <td colspan="4"></td>
+  </tr>
+  <tr>
+    <td>Vue</td>
+    <td>Vuex</td>
+  </tr>
+    <tr>
+    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></td>
+    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vuex/vuex.png"></td>
+  </tr>
 </table>
 
 ───────────────────────────────<br>
