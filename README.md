@@ -55,5 +55,9 @@ My stats on GitHub <br/>
   </tr>
 </table>
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=guillosgit&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 ### Open to work, you can contact directly:
 <code>To my WhatsApp, [here](https://wa.me/543876295801)</code>
