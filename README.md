@@ -56,7 +56,7 @@ My stats on GitHub <br/>
 </table>
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=guillosgit&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=guillosgit&badges=2&show-avatar=false&style=--header-bg-color:%00000;--border-radius:10px"
 />
 
 ### Open to work, you can contact directly:
