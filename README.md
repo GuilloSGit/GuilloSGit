@@ -3,7 +3,7 @@
 **About me**
 - 💼 Full Stack JavaScript Developer
 - ❤️ I love writing JavaScript, and building fun apps
-- 💬 Ask me about anything [here](https://wa.me/543876295801)
+- 💬 Ask me about anything [here](https://wa.me/542645240612)
 
 - My [LinkedIn profile](https://www.linkedin.com/in/guillermo-david-andrada)
 
@@ -60,4 +60,4 @@ My stats on GitHub <br/>
 />
 
 ### Open to work, you can contact directly:
-<code>To my WhatsApp, [here](https://wa.me/543876295801)</code>
+<code>To my WhatsApp, [here](https://wa.me/542645240612)</code>
