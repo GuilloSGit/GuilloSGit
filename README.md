@@ -1,8 +1,31 @@
-### Hi there 👋
+# Hello, World! 🌍
 
-**About me**
-- 💼 Full Stack JavaScript Developer
-- ❤️ I love writing JavaScript, and building fun apps
+Welcome to my GitHub profile! I'm not just your average developer; I'm a coding maestro with a twist of eccentricity. 🎩✨
+
+## The Wacky Coder
+
+- 💻 Full-time developer, part-time comedian.
+- 🤣 Master of witty code comments that will make you LOL.
+- 🌟 Creator of magical solutions that defy gravity (sometimes literally).
+- 🍔 Fuelled by an unhealthy amount of coffee and an undying love for pizza and beers 🍻.
+
+## Quirky Skills
+
+- 🦄 Fluent in over 10 programming languages, including Unicorn and Alienese.
+- 🎮 Champion of debugging, I can find a bug faster than you can say "404 error".
+- 🎭 Expert in wearing multiple hats: developer, designer, debugger, and occasional amateur Humorist.
+
+## Secret Projects
+
+- 🔍 Currently working on a top-secret project that will revolutionize the way cats use the internet.
+- 🚀 Designing a rocket-powered hoverboard for intergalactic commuting (fingers crossed, no explosions).
+
+## Let's Connect!
+
+If you're looking for some coding fun or just a good laugh, feel free to reach out. Let's embark on a journey filled with laughter, creativity, and mind-boggling code!
+
+🌈 Stay curious, stay quirky! 🌈
+
 - 💬 Ask me about anything [here](https://wa.me/542645240612)
 
 - My [LinkedIn profile](https://www.linkedin.com/in/guillermo-david-andrada)
@@ -60,4 +83,5 @@ My stats on GitHub <br/>
 />
 
 ### Open to work, you can contact directly:
+
 <code>To my WhatsApp, [here](https://wa.me/542645240612)</code>
