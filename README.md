@@ -76,6 +76,6 @@ My stats on GitHub <br/>
   </tr>
 </table>
 
-### Open to work, you can contact directly:
+### Open to work and ready to join immediately, you can contact directly:
 
 <code>To my WhatsApp, [here](https://wa.me/542645240612)</code>
