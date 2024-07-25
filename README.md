@@ -32,8 +32,6 @@ If you're looking for some coding fun or just a good laugh, feel free to reach o
 
 ![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=GuilloSGit)
 
-[![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/GuilloSGit&theme=dark)](https://git.io/awesome-stats-card)
-
 <table>
   <th colspan="7" align="left">
       Languages and Tools:
@@ -81,4 +79,4 @@ If you're looking for some coding fun or just a good laugh, feel free to reach o
 
 ### Open to work and ready to join immediately, you can contact directly:
 
-<code>To my WhatsApp, [here](https://wa.me/542645240612)</code>
+<code>To my WhatsApp, [here](https://wa.me/543876295801)</code>
