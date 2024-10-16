@@ -33,7 +33,7 @@ If you're looking for some coding fun or just a good laugh, feel free to reach o
 ![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=GuilloSGit)
 
 <table>
-  <th colspan="7" align="left">
+  <th colspan="8" align="left">
       Languages and Tools:
    </th>
   <tr>
@@ -44,6 +44,7 @@ If you're looking for some coding fun or just a good laugh, feel free to reach o
     <td>Express.js</td>
     <td>SQL</td>
     <td>MongoDB</td>
+    <td>Python</td>
   </tr>
   <tr>
     <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></td>
@@ -53,9 +54,10 @@ If you're looking for some coding fun or just a good laugh, feel free to reach o
     <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></td>
     <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></td>
       <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></td>
+  <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></td>
   </tr>
   <tr>
-    <td colspan="7"></td>
+    <td colspan="8"></td>
   </tr>
   <tr>
     <td>PostgreSQL</td>
@@ -65,6 +67,7 @@ If you're looking for some coding fun or just a good laugh, feel free to reach o
     <td>Vue</td>
     <td>PHP</td>
     <td>Laravel</td>
+    <td>Django</td>
   </tr>
     <tr>
     <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></td>
@@ -75,6 +78,7 @@ If you're looking for some coding fun or just a good laugh, feel free to reach o
     <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></td>
     <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></td>
   </tr>
+  <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></td>
 </table>
 
 ### Open to work and ready to join immediately, you can contact directly:
