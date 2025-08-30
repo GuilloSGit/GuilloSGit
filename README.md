@@ -1,86 +1,73 @@
-# Hello, World! 🌍
+# 👋 Hi, I'm Guillermo David Andrada  
 
-Welcome to my GitHub profile! I'm not just your average developer; I'm a coding guy with a twist of eccentricity. ✨
+💻 **Full Stack Developer** | 🚀 Passionate about building scalable, reliable and user-focused applications  
 
-## The Wacky Coder
+---
 
-- 💻 Full-time developer, part-time comedian.
-- 🤣 Master of witty code comments that will make you LOL.
-- 🌟 Creator of solutions that defy gravity (sometimes literally).
-- 🍔 Fuelled by an unhealthy amount of coffee and an undying love for pizza and beers 🍻.
+## 🌟 About Me  
 
-## Quirky Skills
+I'm a **Full Stack Developer** with **5+ years of experience** delivering web applications and APIs for clients across **LATAM and USA**.  
+I specialize in **frontend and backend development**, crafting solutions that are clean, performant, and maintainable.  
+I thrive in **agile environments**, collaborating with distributed teams, and integrating **modern technologies & AI-powered features** into real-world solutions.  
 
-- 🦄 Fluent in over 5 programming languages, including Unicorn and Alienese.
-- 🎮 Champion of debugging, I can find a bug faster than you can say "404 error".
-- 🎭 Expert in wearing multiple hats: developer, designer, debugger, scrum master and occasional amateur Humorist.
+---
 
-## Secret Projects
+## 🛠️ Technical Skills  
 
-- 🔍 Currently working on a top-secret project that will revolutionize the way cats use the internet.
-- 🚀 Designing a rocket-powered hoverboard for intergalactic commuting (fingers crossed 🤞, no explosions).
+**Frontend**: React • Vue.js • Next.js • JavaScript • HTML • CSS • Tailwind • PrimeVue  
+**Backend**: Node.js • Express • Python (Django) • PHP (CodeIgniter)  
+**Databases**: MySQL • PostgreSQL • MongoDB • Firebase  
+**DevOps & Deployment**: Docker • Vercel • Netlify • CI/CD  
+**Testing**: Cypress • Postman • Unit & E2E  
+**Workflow & Collaboration**: Git • GitHub • GitLab • Jira • Trello  
 
-## Let's Connect!
+---
 
-If you're looking for some coding fun or just a good laugh, feel free to reach out.
+## 📌 Work Experience  
 
-🌈 Stay curious, stay quirky! 🌈
+### 🔹 Freelance Full Stack Developer (Dec 2019 – May 2025)  
+- Built and deployed **10+ production-ready systems** meeting 80%+ of original specs.  
+- Increased UI/UX engagement by **25%** through optimized designs.  
+- Reduced manual tasks by **40%** with automated workflows.  
+- Worked with **React, Vue, Next.js, Node, Django, Express** and multiple databases.  
 
-- 💬 Ask me about anything [here](https://wa.me/542645240612)
+### 🔹 Electro 3 – Full Stack Developer (Jan 2021 – May 2023)  
+- Developed cross-platform responsive apps and admin systems.  
+- Integrated REST APIs and external services.  
+- Strengthened reliability and security of internal platforms.  
 
-- My [LinkedIn profile](https://www.linkedin.com/in/guillermo-david-andrada)
+---
 
-![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=GuilloSGit)
+## 🎓 Certifications  
+- **Full Stack Developer Program – Udemy**  
+- **JavaScript Algorithms & Data Structures – freeCodeCamp**  
+- **Vue.js & Vuex Advanced Projects – Udemy**  
+- **Python for Web Development (Django) – Platzi**  
+- **Docker & Deployment Fundamentals – IBM / Coursera**  
+- And more...  
 
-<table>
-  <th colspan="8" align="left">
-      Languages and Tools:
-   </th>
-  <tr>
-    <td>JavaScript</td>
-    <td>React</td>
-    <td>Redux</td>
-    <td>NodeJS</td>
-    <td>Express.js</td>
-    <td>SQL</td>
-    <td>MongoDB</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></td>
-    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></td>
-    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code></td>
-    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></td>
-    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></td>
-    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></td>
-      <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></td>
-  <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></td>
-  </tr>
-  <tr>
-    <td colspan="8"></td>
-  </tr>
-  <tr>
-    <td>PostgreSQL</td>
-    <td>HTML5</td>
-    <td>CSS3</td>
-    <td>Bootstrap</td>
-    <td>Vue</td>
-    <td>PHP</td>
-    <td>Laravel</td>
-    <td>Django</td>
-  </tr>
-    <tr>
-    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></td>
-    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></td>
-    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></td>
-    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></td>
-    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></td>
-    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></td>
-    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></td>
-    <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></td>
-  </tr>
-</table>
+---
 
-### Open to work and ready to join immediately, you can contact directly:
+## 🌍 Languages  
+- Spanish (Native)  
+- English (Professional - C1)  
+- Portuguese (Conversational - B2)  
 
-<code>To my WhatsApp, [here](https://wa.me/543876295801)</code>
+---
+
+## 📊 GitHub Stats  
+
+![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=GuilloSGit&show_icons=true&theme=radical)  
+
+---
+
+## 🤝 Let's Connect  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/guillermo-david-andrada)  
+- 🌐 [Portfolio](https://ga-software.wuaze.com)  
+- 💬 [WhatsApp](https://wa.me/543876295801)  
+- 📧 guillermoandrada@gmail.com  
+
+---
+
+✨ _“Clean code, scalable solutions, and teamwork are at the core of everything I build.”_ ✨
