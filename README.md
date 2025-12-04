@@ -25,13 +25,13 @@ I thrive in **agile environments**, collaborating with distributed teams, and in
 
 ## 📌 Work Experience  
 
-### 🔹 Freelance Full Stack Developer (Dec 2019 – May 2025)  
+### 🔹 Freelance Full Stack Developer (Nov 2019 – Dec 2025)  
 - Built and deployed **10+ production-ready systems** meeting 80%+ of original specs.  
 - Increased UI/UX engagement by **25%** through optimized designs.  
 - Reduced manual tasks by **40%** with automated workflows.  
 - Worked with **React, Vue, Next.js, Node, Django, Express** and multiple databases.  
 
-### 🔹 Electro 3 – Full Stack Developer (Jan 2021 – May 2023)  
+### 🔹 Electro 3 – Full Stack Developer (Jan 2021 – Jun 2022)  
 - Developed cross-platform responsive apps and admin systems.  
 - Integrated REST APIs and external services.  
 - Strengthened reliability and security of internal platforms.  
