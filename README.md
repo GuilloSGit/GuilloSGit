@@ -59,7 +59,7 @@ I thrive in **agile environments**, collaborating with distributed teams, and in
 ## 🤝 Let's Connect  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/guillermo-david-andrada)  
-- 🌐 [Portfolio](https://ga-software.wuaze.com)  
+- 🌐 [Portfolio](https://ga-software.dev)  
 - 💬 [WhatsApp](https://wa.me/543876295801)  
 - 📧 guillermoandrada@gmail.com  
 
