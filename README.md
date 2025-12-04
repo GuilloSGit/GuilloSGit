@@ -53,11 +53,6 @@ I thrive in **agile environments**, collaborating with distributed teams, and in
 - English (Professional - C1)  
 - Portuguese (Conversational - B2)  
 
----
-
-## 📊 GitHub Stats  
-
-![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=GuilloSGit&show_icons=true&theme=radical)  
 
 ---
 
